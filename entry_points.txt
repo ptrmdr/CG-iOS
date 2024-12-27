@@ -1,0 +1,2 @@
+\$\$protocol_witness_for_SwiftUI\.App\.body\.getter.*
+entry
